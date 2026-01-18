@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Vlad567823/Web#readme",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "parcel": "^2.16.3"
   }
-  
 }
